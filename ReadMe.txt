@@ -5,4 +5,4 @@ CSS
 Java Script 
 git-hub API
 
-its a currency calculator 
+# Its a currency calculator.

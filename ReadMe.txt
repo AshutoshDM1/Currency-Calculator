@@ -7,3 +7,4 @@ git-hub API
 
 # Its a currency calculator.
 it a API
+it new api

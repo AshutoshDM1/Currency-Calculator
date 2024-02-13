@@ -8,8 +8,8 @@ this site can calculate <br>
 
 The API used in this Project <br>
 
-# public-apis 
-<a href="https://github.com/public-apis/public-apis?tab=readme-ov-file#games--comics">link </a>
+ 
+<a href="https://github.com/public-apis/public-apis?tab=readme-ov-file#games--comics"># public-apis </a>
 
 lets learn more 
 
